@@ -1,0 +1,15 @@
+{
+  "name": "barco",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Testing remo",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daniel Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "remo": "0.0.12"
+  }
+}
